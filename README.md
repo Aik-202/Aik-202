@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Pose Nexus](https://posenexus.vercel.app/)
 
-- 🔭 I’m currently working on [Brownx](https://brown-x.vercel.app/)
+- 🔭 I’m currently working on [Brownx](https://brownx.vercel.app/)
 
 - 💬 Ask me about **react, node, express, mongodb, tailwindcss**
 
