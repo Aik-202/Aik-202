@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aik-202" alt="aik-202" /></a> </p>
 
-- 🔭 I’m currently working on [Weventa](https://weventa-frontend.vercel.app/)
-
 - 🔭 I’m currently working on [Pose Nexus](https://posenexus.vercel.app/)
 
 - 🔭 I’m currently working on [Brownx](https://brownx.vercel.app/)
