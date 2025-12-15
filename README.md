@@ -12,19 +12,17 @@
 ## 👩‍💻 About Me
 I am a **Software Engineer and First-Class Computer Science graduate** passionate about building intelligent systems that bridge **AI, automation, and real-world operations**.
 
-I’ve built solutions across:
+I’ve built solutions namely:
+- **Job Satisfaction Questionnaire systems** 
 - **AI-powered autonomous systems** (flight-booking agent)
 - **Logistics & mobility systems** (real-time delivery tracking)
 - **E-commerce & booking platforms**
 - **Web applications using MERN and modern JS tools**
 
+Most of my professional work is in private repositories due to company NDAs.
+I’ve included a few small public demos to illustrate my frontend approach and am happy to walk through real-world systems during interviews.
+
 I enjoy creating systems that are **reliable, scalable, and impactful**.
-
----
-
-## 🚀 What I’m Working On
-- **Pose Nexus** — a booking & e-commerce platform for models, ushers, and creatives  
-  👉 https://posenexus.vercel.app/
 
 ---
 
